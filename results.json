@@ -1,0 +1,32 @@
+[
+  {
+    "year": "2016",
+    "industry": "insurance",
+    "employees": 56400,
+    "total_assets": null
+  },
+  {
+    "year": "2017",
+    "industry": "insurance",
+    "employees": 49800,
+    "total_assets": null
+  },
+  {
+    "year": "2018",
+    "industry": "Insurance",
+    "employees": null,
+    "total_assets": null
+  },
+  {
+    "year": "2019",
+    "industry": "insurance",
+    "employees": null,
+    "total_assets": 290661
+  },
+  {
+    "year": "2020",
+    "industry": "insurance",
+    "employees": null,
+    "total_assets": 343333
+  }
+]

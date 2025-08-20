@@ -1,0 +1,100 @@
+{
+  "citation": "",
+  "description": "The dataset contains annual filings (10K) of all publicly traded firms from 1993-2020. The table data is stripped but all text is retained.\nThis dataset allows easy access to the EDGAR-CORPUS dataset based on the paper EDGAR-CORPUS: Billions of Tokens Make The World Go Round (See References in README.md for details).",
+  "features": {
+    "filename": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "cik": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "year": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_1": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_1A": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_1B": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_2": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_3": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_4": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_5": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_6": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_7": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_7A": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_8": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_9": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_9A": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_9B": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_10": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_11": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_12": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_13": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_14": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_15": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "apache-2.0"
+}

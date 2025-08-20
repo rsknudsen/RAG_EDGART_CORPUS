@@ -1,0 +1,6 @@
+numpy
+datasets
+langchain
+openai
+faiss-cpu
+json

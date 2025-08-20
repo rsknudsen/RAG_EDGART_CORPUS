@@ -1,0 +1,32 @@
+[
+  {
+    "year": 2016,
+    "industry": "Financial services / Insurance",
+    "total_employees": 56400,
+    "total_assets_million_usd": 498260
+  },
+  {
+    "year": 2017,
+    "industry": "Financial services / Insurance",
+    "total_employees": 49800,
+    "total_assets_million_usd": 498300
+  },
+  {
+    "year": 2018,
+    "industry": "Financial services / Insurance",
+    "total_employees": 49600,
+    "total_assets_million_usd": 491980
+  },
+  {
+    "year": 2019,
+    "industry": "Financial services / Insurance",
+    "total_employees": 46000,
+    "total_assets_million_usd": 525060
+  },
+  {
+    "year": 2020,
+    "industry": "Financial services / Insurance",
+    "total_employees": 45000,
+    "total_assets_million_usd": 586480
+  }
+]
